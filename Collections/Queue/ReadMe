@@ -1,0 +1,12 @@
+Collection
+1.Set-Stores randomly with out duplicates.
+2.List-Stores in sequence and allows duplicates.
+3.Queue-First in first out process.
+4.Map-to store key, values.
+Queue
+Queue is the first in first out process
+1.Deque
+a)ArrayDeque - stores in array manner.follows first in first out.
+b)LinkedList - same linked list in list
+2.PriorityQueue: priority queue gives the priority to the least value.
+least value stores first and then randomly. if we remove the least value then the 2nd least value stores first.

@@ -1,0 +1,6 @@
+Final keyword
+1.Final is a keyword.
+2.We can declare final as variable & method & class.
+3.Final variables cannot be modified.
+4.Final methods cannot be override.
+5.Final class cannot get inherited.

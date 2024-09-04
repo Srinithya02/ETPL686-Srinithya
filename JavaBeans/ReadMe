@@ -1,0 +1,4 @@
+1.Java beans is a mechanism.
+2.Java beans is light weight.
+3.All attributes are private ans set/get methods are public implements serializable interface.
+4.We can achieve tightly encapsulation through java beans.

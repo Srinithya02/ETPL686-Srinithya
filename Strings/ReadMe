@@ -1,0 +1,20 @@
+STRING
+1.String class
+2.String buffer
+3.String builder
+String Class
+1.String is a final class.
+2.String class is immutable : Once we declare any String object it is constant.If we are trying to modify any existing string then the it will create other memory location.Existing object is eligible for garbage collections.
+3.String class having methods.
+4.All String class methods are non synchronized.
+String Buffer
+1.String is a final class.
+2.String buffer is mutable.
+5.String buffer having methods.
+3.All String buffer methods are synchronized.
+4.String buffer is not recommended to use in development but is still in API.
+String Builder
+1.String is a final class.
+2.String builder is mutable
+3.String builder having methods.  
+4.All String builder methods are synchronized.
