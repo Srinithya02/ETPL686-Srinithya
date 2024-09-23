@@ -1,0 +1,11 @@
+Collection
+1.Set-Stores randomly with out duplicates.
+2.List-Stores in sequence and allows duplicates.
+3.Queue-First in first out process.
+4.Map-to store key, values.
+List
+1.ArrayList
+2.LinkedList
+3.Vector
+a)Stack
+

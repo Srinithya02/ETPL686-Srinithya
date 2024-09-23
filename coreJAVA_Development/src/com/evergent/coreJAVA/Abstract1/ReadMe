@@ -1,0 +1,6 @@
+Abstract
+1.Abstract is a key word.
+2.Abstract class having abstract methods and concrete methods(implemented).
+3.If any class having abstract method that class should be declared with abstract keyword otherwise it will show compilation error.
+4.If any class extends abstract class then that class should override all abstract methods otherwise the class shows compilation error.
+5.We cant create object to abstract class we can only create reference to abstract class.

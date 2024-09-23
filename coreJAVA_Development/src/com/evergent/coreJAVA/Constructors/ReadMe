@@ -1,0 +1,11 @@
+Contructors
+Concept of constructors which goes as:
+1.The constructor name and class name should be same.
+2.There are two types of constructors such as default and parameterized.
+3.We can access constructors while creation of object.
+4.Constructors are mainly for initializing.
+5.Constructors doesn’t have any return type not even void.if there is void return type then the compiler will not consider as constructor but as method.
+6.Every class needs at least one default constructor.
+7.This,super keywords.
+8.Constructors are always overloaded.
+9.This is a keyword always pointing to the instance variables.

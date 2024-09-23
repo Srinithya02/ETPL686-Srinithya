@@ -1,0 +1,11 @@
+Collection
+1.Set-Stores randomly with out duplicates.
+2.List-Stores in sequence and allows duplicates.
+3.Queue-First in first out process.
+4.Map-to store key, values.
+Set
+1.HashSet - stores the values randomly without any duplicates
+2.TreeSet - used for sorting process. 
+it retrieves the elements in ascending order or if reverse it can also store in reverse order
+3.LinkedHashSet - it stores the values in the form of nodes. 
+so if we insert any values then it takes less process to divide the elements and store in between.
